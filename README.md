@@ -12,4 +12,11 @@
  please run PowerShell as an administrator and run the following command:  Set-ExecutionPolicy RemoteSigned
 
  To run the script, simply navigate to the location of the download and type .\remove_bloat.ps1.
- This script will need to be run in an Administrative PowerShell as well.  
+ This script will need to be run in an Administrative PowerShell as well.
+
+ If there are additional Programs you would like to remove, you can add items to the CSV file.  Be sure to follow the
+ format that is used.  
+
+
+ The CSV file, and the main core of the script are from the CyberSecurtiy boot camp at the University of Utah.  Huge thanks
+ to the Teachers and TAs who devoted much of their time to teaching us how to be effective cyber warriors :) 
